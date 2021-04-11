@@ -7,9 +7,9 @@ vasm is a basic instruction set to draw on a canvas.
 for now im making it have some basic instructions but i will add more when the foundation is ready
 
 ## Instructions
-- PP(X,Y)    |  Pencil Position
-- PC(0x001)  |  Pencil Color
+- PP(X,Y)    |  Set Pencil Position
+- PC(0x001)  |  Set Pencil Color
 - MN(N)      |  Move the pencil N pixels North
-- ME()       |  Move the pencil N pixels East
-- MS()       |  Move the pencil N pixels South
-- MW()       |  Move the pencil N pixels West
+- ME(N)      |  Move the pencil N pixels East
+- MS(N)      |  Move the pencil N pixels South
+- MW(N)      |  Move the pencil N pixels West
