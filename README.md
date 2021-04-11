@@ -15,3 +15,6 @@ for now im making it have some basic instructions but i will add more when the f
 - ME(N)      |  Move the pencil N pixels East
 - MS(N)      |  Move the pencil N pixels South
 - MW(N)      |  Move the pencil N pixels West
+
+### Example
+#### Result
